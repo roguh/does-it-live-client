@@ -1,0 +1,8 @@
+* extend
+- add storybooks, test 
+- add proptypes
+
+* apply
+- https://github.com/brillout/awesome-react-components
+- build a megasite with lots of example layouts, features
+- build a site that integrates with a node-api
